@@ -1,3 +1,5 @@
 # Welcome!
 
-[Go!](/content/index.md)
+## Content
+1. [[Quick Notes]]
+2. [[TLM]]
