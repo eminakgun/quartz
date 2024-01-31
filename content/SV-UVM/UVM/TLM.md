@@ -1,4 +1,10 @@
-
+---
+title: TLM
+tags:
+  - uvm
+  - tlm
+---
+ 
 TLM is a modeling abstraction used in hardware verification to model communication between different components at a higher level of abstraction than traditional RTL (Register Transfer Level) modeling.
 
 
